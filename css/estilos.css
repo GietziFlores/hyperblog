@@ -32,12 +32,18 @@ body{
     text-align: left;
     border: 1px solid #DDD;
     margin: 0 auto;
-    background-color: gray;
+    background-color: whitesmoke;
 }
 #container h1{
     font-size: 20px;
 }
 #post{
-    background: white;
-    padding: 1em;
+    padding: 1px;
+}
+#footer {
+    background: #691818;
+    color: white;
+    text-align: center;
+    padding: 0.5px;
+    margin: 0;
 }
